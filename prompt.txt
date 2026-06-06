@@ -12,7 +12,7 @@ Extract the food safety hazards from the hazards field and map the it to the mos
 If the hazards field has no value, extract the hazards from the subject field. 
 There may be multiple hazards in the hazards field. 
 Store the hazard labels in sentence case in a new column named hazard_label. 
-Map the hazard attribute to the catch-all label "others" only for hazards extracted from the subject field if there are no closely matched labels. 
+Map the hazard attribute to the catch-all label "Others" only for hazards extracted from the subject field if there are no closely matched labels. 
 For hazards extracted from the hazards field, if there are no closely matched labels, then the hazard label is the hazard name before the hyphen in the raw data. 
 For example, if the hazards field has the value "cadmium too high content - {heavy metals}“, the hazard label is "Cadmium".
 
