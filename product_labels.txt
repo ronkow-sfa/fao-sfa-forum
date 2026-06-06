@@ -1,0 +1,384 @@
+almond
+aloe vera
+anchovy
+animal feed
+anise
+apple
+apricot
+apricot kernel
+artichoke
+asparagus
+avocado
+bacon
+bamboo shoot
+banana
+barley
+basil
+bay leaf
+bean sprout
+beef
+beer
+beetroot
+betel leaf
+biscuit
+bitter gourd
+blackberry
+blueberry
+borage
+bottle gourd
+brandy
+brazil nut
+bread
+broad bean
+broccoli
+brussel sprout
+buckwheat
+butter
+buttermilk
+butternut
+cabbage
+candy
+cane sugar
+cantaloupe
+caramel
+caraway
+cardamom
+carp
+carrot
+cashew
+cassava
+catfish
+cauliflower
+caviar
+celeriac
+celery
+cereal bar
+cheese
+cherry
+chestnut
+chicken
+chicken egg
+chickpea
+chilli sauce
+chive
+chocolate
+chrysanthemum
+cinnamon
+clam
+clove
+cockle
+cocoa
+coconut
+coconut oil
+coconut sugar
+cod
+coffee
+confectionery
+coriander
+corn
+corn oil
+couscous
+cowpea
+crab
+cranberry
+crayfish
+cream
+cucumber
+cumin
+cumin oil
+curd
+currant
+curry leaf
+curry spices
+custard
+custard apple
+cuttlefish
+dandelion
+date
+dill
+dragon fruit
+dried grape
+drinking water
+duck
+duck egg
+dumpling
+durian
+eel
+egg
+eggplant
+energy drink
+escolar
+falafel
+fennel
+fenugreek
+fig
+fish oil
+fish sauce
+flaxseed
+food additive
+food contact material
+food supplement
+frog
+fruit juice
+galangal
+garden cress
+garlic
+gelatine
+ghee
+gin
+ginger
+ginseng
+gluten
+goat cheese
+goat milk
+goose
+gram
+grape
+grape leaf
+grapefruit
+green bean
+ground pepper
+guava
+hake
+halva
+ham
+hazelnut
+hemp
+herbal tea
+herring
+honey
+horse meat
+ice cream
+infant food
+infant milk
+instant noodle
+jackfruit
+jelly
+jelly fish
+kale
+kidney bean
+kimchi
+kipper
+kiwifruit
+kola nut
+langsat
+leek
+lemon
+lemongrass
+lentil
+lettuce
+lily flower
+lime
+liquorice
+live chicken
+lobster
+long bean
+longan
+lovage
+lupin
+lychee
+macadamia
+mackerel
+malt
+mandarin orange
+mango
+mangosteen
+marjoram
+marlin
+mayonnaise
+meat
+melon seed
+milk
+millet
+mint
+mixed fruits
+mixed nuts
+mixed spices
+monkfish
+mooncake
+moringa
+muesli
+mulberry
+mung bean
+mushroom
+mussel
+mustard oil
+mustard seed
+mutton
+nectarine
+nigella
+noodle
+nougat
+nutmeg
+oat
+octopus
+okra
+olive
+olive oil
+onion
+orange
+oregano
+other beans
+other berry fruits
+other cereal grains
+other flours
+other juice
+other leafy vegetables
+other leaves
+other molluscs
+other nuts
+other oils
+other pastes
+other peas
+other sauces
+other seeds
+other sprouts
+other sugars
+other teas
+oyster
+oyster sauce
+palm oil
+palm sugar
+pancake
+papaya
+parsley
+parsnip
+passion fruit
+pasta
+peach
+peanut
+peanut butter
+peanut oil
+pear
+pecan
+pennywort
+pepper
+peppercorn
+perch
+persimmon
+pheasant
+pine nut
+pineapple
+pistachio
+plaice
+plum
+pollen
+pollock
+pomegranate
+pomelo
+poppy seed
+pork
+pork casing
+potato
+potato chips
+poultry
+prune
+pumpkin
+pumpkin seed
+quail
+quince
+rabbit meat
+radish
+rambutan
+rapeseed oil
+raspberry
+red bean
+red yeast rice
+rhubarb
+rice
+rice noodle
+rosemary
+royal jelly
+rucola
+rye
+safflower
+saffron
+sage
+salad
+salak
+salmon
+salt
+sardine
+sardinella
+sausage
+savory
+scad
+scallion
+scallop
+scampi
+seabream
+seaweed
+sesame oil
+sesame seed
+shark
+sheep cheese
+sheep milk
+shrimp
+sichuan pepper
+snail
+snapper
+soft drink
+sole
+sorghum
+soup
+soy protein
+soy sauce
+soybean
+soybean curd
+soybean oil
+spinach
+spirulina
+spring onion
+squash
+squid
+strawberry
+sugar apple
+sumac
+sunflower oil
+sunflower seed
+surimi
+sweet potato
+sweet potato leaf
+sweetener
+swordfish
+syrup
+tamarillo
+tapioca
+tarragon
+tea
+tempeh
+thyme
+tilapia
+tomato
+tomato paste
+tomato sauce
+trout
+truffle
+tuna
+turkey
+turmeric
+turnip
+vanilla
+veal
+venison
+vinegar
+vodka
+wafer
+waffle
+walnut
+watermelon
+wheat
+wheatgrass
+whey
+whey protein
+white beans
+white chocolate
+wild boar meat
+wine
+yacon
+yam
+yanang
+yeast
+others
+yoghurt
+zucchini
