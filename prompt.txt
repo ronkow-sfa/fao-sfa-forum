@@ -1,0 +1,20 @@
+Perform attribute extraction and labelling for each row in the dataset of food product recall data in data.xlsx as follows:
+Extract the countries of origin from the origin field and store the country label in title case in a new column named country_label. 
+If the origin field has no value, extract the countries of origin from the subject field. 
+
+Extract the product, defined as food contact material, animal feed, food commodity or processed food product, from the subject field and map it to the most closely matched labels in product_labels.txt. 
+You may map the product attribute to at most 3 product labels. 
+Map the product attribute to the catch-all label "others" if there are no closely matched labels. 
+Store the product labels in a new column named product_label. 
+
+Extract the food safety hazards from the hazards field and map the it to the most closely matched labels in hazard_labels.txt. 
+If the hazards field has no value, extract the hazards from the subject field. 
+There may be multiple hazards in the hazards field. 
+Store the hazard labels in sentence case in a new column named hazard_label. 
+Map the hazard attribute to the catch-all label "others" only for hazards extracted from the subject field if there are no closely matched labels. 
+For hazards extracted from the hazards field, if there are no closely matched labels, then the hazard label is the hazard name before the hyphen in the raw data. 
+For example, if the hazards field has the value "cadmium too high content - {heavy metals}“, the hazard label is "Cadmium".
+
+There must be no duplicate labels if there are multiple country, product or hazard labels. 
+Use a comma separator with no trailing space for all multiple labels. 
+Display the first 6 records in JSON format and provide the download of all data in CSV format.
