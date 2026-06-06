@@ -5,4 +5,4 @@
 You can use the `transformed` worksheet in Power BI.
 
 ### Note
-- Multiple labels are semicolon separated
+- In the `labelled` worksheet, multiple country, product and hazard labels are semicolon separated.
