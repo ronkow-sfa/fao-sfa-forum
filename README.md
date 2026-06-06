@@ -1,9 +1,10 @@
 ## FAO-SFA Forum data files and Generative AI prompt for hands-on exercise
 
-`data.xlsx` and `data.csv` contain identical data. They are transformed into `data_transformed.xlsx` and `data_transformed.csv` respectively.
+`data.xlsx` and `data.csv` contain identical data of six records. They are transformed into `data_transformed.xlsx` and `data_transformed.csv` respectively.
 
 
-`rasff_2023_2024_2025.xlsx` contains two worksheets, named `labelled` and `transformed`.   
+`rasff_2023_2024_2025.xlsx` is the dataset of validated RASFF notifications in these three years.   
+It contains two worksheets, named `labelled` and `transformed`.   
 
 You can use the `transformed` worksheet in Power BI.
 
