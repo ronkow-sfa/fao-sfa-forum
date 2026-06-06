@@ -11,4 +11,4 @@ You can use the `transformed` worksheet in Power BI.
 `product_labels.txt` and `hazard_labels.txt` are the list of labels used to label the records in `rasff_2023_2024_2025.xlsx`.
 
 ### Note
-- In the `labelled` worksheet, multiple country, product and hazard labels in the data are semicolon separated.
+- In the `labelled` worksheet, multiple country, product and hazard labels in each record are semicolon separated.
