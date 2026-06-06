@@ -13,7 +13,7 @@ You can load the `transformed` worksheet in Power BI to plot charts.
 
 `rasff_2023_2024_2025.csv` contains only the `labelled` data.
 
-`product_labels.txt` and `hazard_labels.txt` are the list of labels used to label the records.
+`product_labels.txt` and `hazard_labels.txt` are the lists of labels used to label the records.
 
 `prompt.txt` is the Gen AI prompt explained in the presentation slides. 
 
