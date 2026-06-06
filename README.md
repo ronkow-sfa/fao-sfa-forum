@@ -1,5 +1,7 @@
 ## FAO-SFA Forum data files for hands-on exercise
 
+Data are provided in two formats (csv and xlsx).
+
 `data.xlsx` and `data.csv` contain identical data of six records. They are transformed into `data_transformed.xlsx` and `data_transformed.csv` respectively.
 
 
