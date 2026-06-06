@@ -6,7 +6,7 @@ Data are provided in two formats (csv and xlsx).
 They are transformed into `data_transformed.xlsx` and `data_transformed.csv` respectively.
 
 
-`rasff_2023_2024_2025.xlsx` is the dataset of validated RASFF notifications in these three years.   
+`rasff_2023_2024_2025.xlsx` is the dataset of validated RASFF notifications from 1 Jan 2023 to 31 Dec 2025.   
 It contains two worksheets, named `labelled` and `transformed`.   
 
 You can load the `transformed` worksheet in Power BI to plot charts.
