@@ -1,0 +1,294 @@
+1,2-cyclohexanedicarboxylic acid diisononyl ester
+1,3-dichloropropanol (1,3-DCP)
+1,3-dimethylamylamine (DMAA)
+1,3-dimethylbutylamine (nor-DMAA)
+1-hydroxy-cyclohexyl phenyl ketone
+2,4,6-trichloroanisole (TCA)
+3-monochlor-1,2-propanediol (3-MCPD)
+4-methylbenzophenone
+5-hydroxytryptophan (5-HTP)
+Acrylamide
+Adulteration
+Aerobic plate count
+Aflatoxins
+Aliphatic hydrocarbons
+Alkalinity
+Allergens
+Aloe-emodin
+Aloin
+Alternariol
+Alternariol monomethyl ether (AME)
+Aluminium
+Amnesic Shellfish Poisoning (ASP) toxins
+Ampicillin
+Anabolic-androgenic steroids
+Androstenedione
+Antibiotics
+Antimony
+Arginine alpha ketoglutarate
+Aromatic hydrocarbons
+Arsenic
+Ashwagandha
+Aspergillus niger
+Atropine
+Azithromycin
+Bacillus spp
+Bacterial contamination
+Bamboo
+Barium
+Benzalkonium chloride (BAC)
+Benzimidazole
+Benzisothiazolinone (BIT)
+Benzo(a)anthracene
+Benzo(a)pyrene
+Benzo(b)fluoranthen
+Benzophenone
+Beta-alanine
+Beta-asarone
+Bis(2-ethylhexyl) terephthalate (DOTP)
+Bisphenols
+Boron
+Botulinum toxin
+Cadmium
+Caffeine
+Campylobacter spp
+Cannabinoid
+Capsaicin
+Capsaicinoids
+Cassia occidentalis
+Cereulide
+Cetrimonium chloride
+Chemical contamination
+Chloramphenicol
+Chlorate
+Chromium
+Chromium/Nickel
+Chrysene
+Ciguatoxins
+Ciprofloxacin
+Citrinin
+Clopidol
+Closantel
+Clostridium spp
+Cobalt
+Coliforms
+Copper
+Corrosion
+Cronobacter spp
+Crystal violet
+Curcumin
+Cyanide
+Cyanuric acid
+Cyclo-di-BADGE
+DEHA
+DEHTP
+Dehydroepiandrosterone (DHEA)
+Deoxynivalenol
+Dexamethasone
+Diarrhoeic Shellfish Poisoning (DSP) toxins
+Diclazuril
+Diclofenac
+Dihydrostreptomycin
+Dioxins
+Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide
+Disinfectant/sanitizer
+Doxycycline
+E220 Sulphur dioxide
+Emodin
+Enrofloxacin
+Enterobacteriaceae
+Ephedrine
+Epoxidised soybean oil (ESBO)
+Ergot
+Ergot alkaloids
+Erucic acid
+Escherichia coli
+Ethoxyquin
+Ethylcarbamate
+Feed additives
+Florfenicol
+Fluoride
+Food additives
+Foreign bodies
+Formaldehyde
+Fraud
+Free fatty acids
+Fumonisins
+Furazolidon
+Genetically modified
+Glycidyl esters
+Grayanotoxins
+Griseofulvin
+Guggulsterone
+Heavy metals
+Hepatitis A virus
+Hepatitis E virus
+Histamine
+Histamine generating bacteria
+Huperzine A
+Hydroxymethylfurfural (HMF)
+Hyphomycetes
+Illegal import
+Illegal trade
+Inner coating cracked
+Inner coating peeling off
+Iodine
+Iron
+Ivermectin
+Labelling
+Lasalocid
+Lead
+Leucocrystal violet
+Leucomalachite green
+Lincomycin
+Lipophilic toxins
+Listeria spp
+Lithium
+Lye
+Malachite green
+Manganese
+Melamine
+Melatonin
+Meloxicam
+Mercury
+Mesophiles
+Methanol
+Methyl yellow
+Methyl-2-benzoylbenzoate
+Metronidazole
+Microbiological contamination
+Migration
+Mineral oil
+Mineral oil aromatic hydrocarbons (MOAH)
+Mineral oil saturated hydrocarbons (MOSH)
+Molybdenum
+Monacolin K
+Monensin
+Morphardenafil
+Morphine
+Morpholine
+Mould
+Muscimol
+N-acetyl tyrosine
+Nandrolone
+Narasin
+Ndl-PCB
+Nickel
+Nicotinic acid
+Nitrate
+nitrite
+Nitrofurans
+Norovirus
+Nortadalafil
+Not in catalogue
+Novel food
+Nutrients
+Ochratoxin A
+Opium alkaloids
+Orange II
+Organoleptic aspects
+Outer coating coming off
+Oxyphenylbutazone
+Oxytetracycline
+Packaging
+Paracetamol
+Parasitic infestation
+Patulin
+Perchlorate
+Perfluoroalkyl substances (PFAS)
+Perfluorohexane sulfonic acid (PFHxS)
+Perfluorononanoic acid (PFNA)
+Perfluorooctane sulphonic acid (PFOS)
+Perfluorooctanoic acid (PFOA)
+Pesticide residues
+Phenylbutazone
+Phthalates
+Piperine
+Plant parts
+Polychlorobifenyls dioxin-like
+Polychlorobifenyls non-dioxin-like
+Polycyclic aromatic hydrocarbons
+Porcine DNA
+Poultry DNA
+Primary aromatic amines
+Protein animal
+Protein fish
+Protein poultry
+Pseudomonas spp
+Pyrrolizidine alkaloids
+Quinolizidine alkaloids
+Radiation
+Ragweed (Ambrosia spp)
+Rauwolfia spp
+Rhein
+Rhodamine B
+Rice husk
+Robenidine
+Rotavirus
+Ruminant DNA
+Salicylic acid
+Salinomycin
+Salmonella spp
+Sarcocystis spp
+Scopolamine
+Selenium
+Semicarbazide (SEM)
+Sibutramine
+Sildenafil
+Solanum nigrum
+Staphylococcal enterotoxin
+Staphylococcus spp
+Streptomycin
+Sudan
+Suffocation risk
+Sulfadiazine
+Sulfadimethoxine
+Sulfadimidine
+Sulfamethoxazole
+Sulfonamide
+Sulphite
+Sulphur
+Sulphur dioxide (SO2)
+Sulphurous acid
+Synephrine
+T-2 toxin
+Tadalafil
+Tadalafil analogue
+Taurine
+Temperature control
+Tenuazonic acid
+Ternidazole
+Tetracycline
+Thiouracil
+Thorn-apple (Datura stramonium L) seeds
+Tilmicosin
+Tin
+Toltrazuril
+Toluene
+Toxin unknown
+Trans fatty acids
+Trazodone
+Trimethoprim
+Tri-n-butyl acetyl citrate (ATBC)
+Triphenyltin (TPT)
+Tropane alkaloids
+Tulathromycin
+Tylosin
+Unauthorised substance
+Unauthorised/unsafe ingredient
+Unfit for use as food contact material
+Vanadium
+Vanadyl sulphate
+Vardenafil
+Veterinary drug residues
+Vibrio spp
+Victoria pure blue BO
+Vitamins
+Volatile organic compounds
+Volatile organic constituents
+Yeasts
+Yersinia spp
+Yohimbine
+Others
+Zearalenone
+Zinc
