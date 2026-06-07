@@ -3,7 +3,7 @@ Perform attribute extraction and labelling for each row in the dataset of food p
 Extract the countries of origin from the origin field.
 If the origin field has no value, extract the countries of origin from the subject field. 
 Store the extracted attribute as a country label in title case in a new column named country_label. 
-If the country of origin cannot be found in the data, assign the country label “Unknown”.
+If the country of origin cannot be found in the origin and subject fields, assign the country label “Unknown”.
 
 Extract the product, defined as food contact material, animal feed, food commodity or processed food product, from the subject field and map it to the most closely matched labels in product_labels.txt. 
 You may map the product attribute to at most 3 product labels. 
