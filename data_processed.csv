@@ -1,1 +1,28 @@
-
+count,reference1,date,origin,hazards,subject,country_label,product_label,hazard_label,country_product_hazard
+1,2025.10429,26/12/2025 0:00,France,Escherichia coli   - {pathogenic micro-organisms},Escherichia coli in clams,France,clam,Escherichia coli,France clam Escherichia coli
+1,2025.10425,26/12/2025 0:00,"Belgium,Russia",cyanide  too high content - {biological contaminants},Cyanide in linseed,Belgium,flaxseed,Cyanide,Belgium flaxseed Cyanide
+1,2025.10425,26/12/2025 0:00,"Belgium,Russia",cyanide  too high content - {biological contaminants},Cyanide in linseed,Russia,flaxseed,Cyanide,Russia flaxseed Cyanide
+1,2025.10087,26/12/2025 0:00,Poland,,unsatisfactory product packaging Lasagne Bolognese from Poland,Poland,pasta,Packaging,Poland pasta Packaging
+1,2025.10418,24/12/2025 0:00,Belgium,Salmonella Agona  - {pathogenic micro-organisms},Salmonella agona in sunflower seed meal feed,Belgium,animal feed,Salmonella spp,Belgium animal feed Salmonella spp
+1,2025.10418,24/12/2025 0:00,Belgium,Salmonella Agona  - {pathogenic micro-organisms},Salmonella agona in sunflower seed meal feed,Belgium,sunflower seed,Salmonella spp,Belgium sunflower seed Salmonella spp
+1,2025.1758,11/3/2025 0:00,"Belgium,Tunisia","Aflatoxin B1   - {mycotoxins},aflatoxin total  - {mycotoxins},ochratoxin A   - {mycotoxins}",Ochratoxin A and aflatoxins in date syrup produced with organic dates from Tunisia,Belgium,date,Aflatoxins,Belgium date Aflatoxins
+1,2025.1758,11/3/2025 0:00,"Belgium,Tunisia","Aflatoxin B1   - {mycotoxins},aflatoxin total  - {mycotoxins},ochratoxin A   - {mycotoxins}",Ochratoxin A and aflatoxins in date syrup produced with organic dates from Tunisia,Belgium,date,Ochratoxin A,Belgium date Ochratoxin A
+1,2025.1758,11/3/2025 0:00,"Belgium,Tunisia","Aflatoxin B1   - {mycotoxins},aflatoxin total  - {mycotoxins},ochratoxin A   - {mycotoxins}",Ochratoxin A and aflatoxins in date syrup produced with organic dates from Tunisia,Belgium,syrup,Aflatoxins,Belgium syrup Aflatoxins
+1,2025.1758,11/3/2025 0:00,"Belgium,Tunisia","Aflatoxin B1   - {mycotoxins},aflatoxin total  - {mycotoxins},ochratoxin A   - {mycotoxins}",Ochratoxin A and aflatoxins in date syrup produced with organic dates from Tunisia,Belgium,syrup,Ochratoxin A,Belgium syrup Ochratoxin A
+1,2025.1758,11/3/2025 0:00,"Belgium,Tunisia","Aflatoxin B1   - {mycotoxins},aflatoxin total  - {mycotoxins},ochratoxin A   - {mycotoxins}",Ochratoxin A and aflatoxins in date syrup produced with organic dates from Tunisia,Tunisia,date,Aflatoxins,Tunisia date Aflatoxins
+1,2025.1758,11/3/2025 0:00,"Belgium,Tunisia","Aflatoxin B1   - {mycotoxins},aflatoxin total  - {mycotoxins},ochratoxin A   - {mycotoxins}",Ochratoxin A and aflatoxins in date syrup produced with organic dates from Tunisia,Tunisia,date,Ochratoxin A,Tunisia date Ochratoxin A
+1,2025.1758,11/3/2025 0:00,"Belgium,Tunisia","Aflatoxin B1   - {mycotoxins},aflatoxin total  - {mycotoxins},ochratoxin A   - {mycotoxins}",Ochratoxin A and aflatoxins in date syrup produced with organic dates from Tunisia,Tunisia,syrup,Aflatoxins,Tunisia syrup Aflatoxins
+1,2025.1758,11/3/2025 0:00,"Belgium,Tunisia","Aflatoxin B1   - {mycotoxins},aflatoxin total  - {mycotoxins},ochratoxin A   - {mycotoxins}",Ochratoxin A and aflatoxins in date syrup produced with organic dates from Tunisia,Tunisia,syrup,Ochratoxin A,Tunisia syrup Ochratoxin A
+1,2025.038,20/1/2025 0:00,,ochratoxin A   - {mycotoxins},Content exceeds the ochratoxin A in pre-cooked wheat from Italy,Italy,wheat,Ochratoxin A,Italy wheat Ochratoxin A
+0,,1/1/2025 0:00,,,,,,,
+0,,1/2/2025 0:00,,,,,,,
+0,,1/3/2025 0:00,,,,,,,
+0,,1/4/2025 0:00,,,,,,,
+0,,1/5/2025 0:00,,,,,,,
+0,,1/6/2025 0:00,,,,,,,
+0,,1/7/2025 0:00,,,,,,,
+0,,1/8/2025 0:00,,,,,,,
+0,,1/9/2025 0:00,,,,,,,
+0,,1/10/2025 0:00,,,,,,,
+0,,1/11/2025 0:00,,,,,,,
+0,,1/12/2025 0:00,,,,,,,
