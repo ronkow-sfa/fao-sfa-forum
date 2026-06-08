@@ -3,7 +3,7 @@
 Data are provided in two formats (csv and xlsx).
 
 `data.xlsx` and `data.csv` contain identical data of six records.   
-They are transformed into `data_transformed.xlsx` and `data_transformed.csv` respectively.
+They are transformed into `data_processed.xlsx` and `data_processed.csv` respectively.
 
 
 `rasff_2023_2024_2025.xlsx` is the dataset of validated RASFF notifications from 1 Jan 2023 to 31 Dec 2025.   
