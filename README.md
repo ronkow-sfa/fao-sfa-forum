@@ -1,5 +1,7 @@
 ## FAO-SFA Forum data files for hands-on exercise
 
+### SAMPLE DATA FOR LEARNING
+
 Data are provided in two formats (csv and xlsx).
 
 `data.xlsx` and `data.csv` contain identical raw data of six records.   
@@ -8,6 +10,8 @@ They are transformed into `data_processed.xlsx` and `data_processed.csv` respect
 Use `data_processed.xlsx` or `data_processed.csv` in Power BI.
 
 ***
+
+### 2023 TO 2025 DATA
 
 `rasff_2023_2024_2025.xlsx` is the dataset of validated RASFF notifications from 1 Jan 2023 to 31 Dec 2025.   
 It contains two worksheets, named `labelled` and `transformed`.   
