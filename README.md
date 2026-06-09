@@ -40,6 +40,6 @@ If you like video courses, I think this free course is quite good:
 
 I think Power BI is quite intuitive to learn and use. Use it often and you will soon be able to plot more charts and build a simple dashboard.
 
-Learning to use software is like learning any practical skill. It gets easier as you practise more.
+Learning to use software is like learning any practical skill. The more you practise, the easier it gets.
 
 Have fun!
