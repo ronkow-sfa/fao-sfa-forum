@@ -19,5 +19,5 @@ For hazards extracted from the hazards field, if there are no closely matched la
 For example, if the hazards field has the value "cadmium too high content - {heavy metals}“, the hazard label is "Cadmium".
 
 There must be no duplicate labels if there are multiple country, product or hazard labels. 
-Use a comma separator with no trailing space for all multiple labels. 
+Use a semicolon separator with no trailing space for all multiple labels. 
 Display the first 6 records in JSON format and provide the download of all data in CSV format.
