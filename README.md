@@ -22,6 +22,8 @@ You can load the `transformed` worksheet in Power BI to plot charts.
 
 `prompt.txt` is the Generative AI prompt explained in the presentation slides. 
 
+Look through the labels in `product_labels.txt` and edit it to suit your needs. If you just need to monitor a number of specific food products, you can use a much shorter list of labels. That will help the Gen AI app to process the data faster. 
+
 ***
 ### LABELLING DATA IN A GENERATIVE AI APP
 
