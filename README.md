@@ -29,6 +29,8 @@ To label your data, upload `data.xlsx` (or `data.csv`), `product_labels.txt` and
 
 For the 2023 to 2025 dataset, you need to upload the data in small batches. Try uploading 100 records at a time. If the app can output the results in a few minutes, then you can try uploading more records. 
 
+Remember to upload only the necessary fields: reference, date, origin, subject, hazards
+
 If it cannot handle 100 records, consider signing up for a payment plan. Please check the app's information on how much data it can handle before you sign up for the payment plan.
 
 ***
