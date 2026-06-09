@@ -18,6 +18,8 @@ You can load the `transformed` worksheet in Power BI to plot charts.
 
 ***
 
+### LABELS AND PROMPT
+
 `product_labels.txt` and `hazard_labels.txt` are the lists of labels used to label the records.
 
 `prompt.txt` is the Generative AI prompt explained in the presentation slides. 
