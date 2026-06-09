@@ -2,7 +2,7 @@
 
 Data are provided in two formats (csv and xlsx).
 
-`data.xlsx` and `data.csv` contain identical data of six records.   
+`data.xlsx` and `data.csv` contain identical raw data of six records.   
 They are transformed into `data_processed.xlsx` and `data_processed.csv` respectively.
 
 
