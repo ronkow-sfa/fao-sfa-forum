@@ -19,6 +19,8 @@ You can load the `transformed` worksheet in Power BI to plot charts.
 
 To label the data, upload `data.xlsx` (or `data.csv`), `product_labels.txt` and `hazard_labels.txt` to a Generative AI app and copy/paste the prompt.
 
-For the 2023 to 2025 dataset, depending on the payment plan you have signed up to on the Gen AI app, you need to upload the data in small batches. Try uploading 100 records at a time. If the app can output the results in a few minutes, then you can try uploading more records. If it cannot handle 100 records, you probably need to sign up for a more expensive plan. Please check the app's information on how much data it can handle.
+For the 2023 to 2025 dataset, depending on the payment plan you have signed up to on the Gen AI app, you need to upload the data in small batches. Try uploading 100 records at a time. If the app can output the results in a few minutes, then you can try uploading more records. 
+
+If it cannot handle 100 records, you probably need to sign up for a more expensive plan. Please check the app's information on how much data it can handle.
 
 Have fun!
