@@ -23,11 +23,23 @@ You can load the `transformed` worksheet in Power BI to plot charts.
 `prompt.txt` is the Generative AI prompt explained in the presentation slides. 
 
 ***
+### LABELLING DATA IN A GENERATIVE AI APP
 
-To label the data, upload `data.xlsx` (or `data.csv`), `product_labels.txt` and `hazard_labels.txt` to a Generative AI app and copy/paste the prompt.
+To label your data, upload `data.xlsx` (or `data.csv`), `product_labels.txt` and `hazard_labels.txt` to a Generative AI app and copy/paste the prompt.
 
 For the 2023 to 2025 dataset, depending on the payment plan you have signed up to on the Gen AI app, you need to upload the data in small batches. Try uploading 100 records at a time. If the app can output the results in a few minutes, then you can try uploading more records. 
 
 If it cannot handle 100 records, you probably need to sign up for a more expensive plan. Please check the app's information on how much data it can handle.
+
+***
+### POWER QUERY
+
+If you like video courses, I think this free course is quite good:
+
+[https://trumpexcel.com/power-query-course/?utm_source=copilot.com](https://trumpexcel.com/power-query-course/?utm_source=copilot.com)
+
+I think Power BI is quite intuitive to learn and use. Use it often and you will soon be able to plot more charts and build a simple dashboard.
+
+Learning to use software is like learning any practical skill. It gets easier as you practise more.
 
 Have fun!
